@@ -65,8 +65,8 @@ xdg-open index.html # Linux
 The dashboard provides three ways to interact with the Versa Fuel prototype:
 
 1. **Embedded View**: View the prototype directly within the main page through the iframe embed
-2. **External Link**: Click the "Abrir protótipo em nova aba" link to open the design in a new browser tab
-3. **JavaScript Button**: Use the "Abrir via JavaScript" button to programmatically open the prototype
+2. **External Link**: Click the "Abrir protótipo em nova aba" (Open prototype in new tab) link to open the design in a new browser tab
+3. **JavaScript Button**: Use the "Abrir via JavaScript" (Open via JavaScript) button to programmatically open the prototype
 
 ## Development
 
