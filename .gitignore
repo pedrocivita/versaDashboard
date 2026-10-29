@@ -1,0 +1,8 @@
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
+
+# Tooling
+node_modules/
+.env
